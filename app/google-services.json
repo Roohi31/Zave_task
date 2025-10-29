@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036294739265",
+    "project_id": "zave-task",
+    "storage_bucket": "zave-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036294739265:android:231f2b6418371728113dc0",
+        "android_client_info": {
+          "package_name": "me.sabapro.zave_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036294739265-ppah1ivuni7loslrjuk7rl2v5lb8s6nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.sabapro.zave_task",
+            "certificate_hash": "8bffb0a1c589643a8458d5bec7947bd0b0b1005b"
+          }
+        },
+        {
+          "client_id": "1036294739265-gh385b4c8m12b5tleui6o4mibn6fnlv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG4AR-NOWEfNOcAiV3o7vsQ7FI6nLFCvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036294739265-gh385b4c8m12b5tleui6o4mibn6fnlv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
